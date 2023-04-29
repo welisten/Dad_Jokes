@@ -41,7 +41,7 @@ h3
 {
     margin: 0;
     opacity: 0.5;
-    letter-spacing: 2rem;
+    letter-spacing: 0.2rem;
     text-transform: capitalize;
     font-size: 1.6rem;
 }
@@ -49,7 +49,7 @@ h3
 .joke
 {
     font-size: 3rem;
-    letter-spacing: 1rem;
+    letter-spacing: 0.1rem;
     line-height: 40px;
     margin: 50px auto ;
     max-width: 600px;
